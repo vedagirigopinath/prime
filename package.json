@@ -1,0 +1,18 @@
+{
+  "name": "prime",
+  "version": "1.0.0",
+  "description": "work prime ng ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedagirigopinath"
+  },
+  "author": "gopinath",
+  "license": "ISC",
+  "dependencies": {
+    "primeng": "^8.0.2"
+  }
+}
